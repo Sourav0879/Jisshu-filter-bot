@@ -39,6 +39,7 @@ CAPTION_LANGUAGES = [
     "Assamese",
     "Urdu",
 ]
+movie_name=file_name
 
 UPDATE_CAPTION = """<b>𝖭𝖤𝖶 {} 𝖠𝖣𝖣𝖤𝖣 ✅</b>
 
