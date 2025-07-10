@@ -50,7 +50,7 @@ UPDATE_CAPTION = """<b>𝖭𝖤𝖶 {} 𝖠𝖣𝖣𝖤𝖣 ✅</b>
 
 {}
 
-<blockquote>🌿 Sᴇᴀʀᴄʜ Oɴ Rᴏꜱᴇ Bᴏᴛ : <a href="https://telegram.me/rosemovieaibot">𝐑𝐨𝐬𝐞 𝐀𝐢 𝐌𝐨𝐯𝐢𝐞 𝐁𝐨𝐭</a></blockquote>
+<blockquote>🌿 Sᴇᴀʀᴄʜ Oɴ Rᴏꜱᴇ : <a href="https://telegram.me/rosemovieaibot">𝐑𝐨𝐬𝐞 𝐀𝐢 𝐌𝐨𝐯𝐢𝐞 𝐁𝐨𝐭</a></blockquote>
 
 <blockquote>〽️ Powered by @LuxeFlix</b></blockquote>"""
 
