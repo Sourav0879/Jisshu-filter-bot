@@ -54,7 +54,7 @@ COLLECTION_NAME = environ.get("COLLECTION_NAME", "jisshu")
 
 # Other Channel's
 SUPPORT_GROUP = int(environ.get("SUPPORT_GROUP", "-1002161994941"))
-DELETE_CHANNELS = int(environ.get("DELETE_CHANNELS", "-1002251810897"))
+DELETE_CHANNELS = int(environ.get("DELETE_CHANNELS", "-1002298764522"))
 request_channel = environ.get("REQUEST_CHANNEL", "-1002406990394")
 REQUEST_CHANNEL = (
     int(request_channel)
@@ -76,16 +76,16 @@ TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_download_moviezone/8
 VERIFY_IMG = environ.get(
     "VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg"
 )
-SHORTENER_API = environ.get("SHORTENER_API", "06e8c86a49c4a36af9de3db010b6e380ab389919")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "linkshortify.com")
+SHORTENER_API = environ.get("SHORTENER_API", "9dd988a0552a97f798e7a811622c95b5a307dcb5")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "arolinks.com")
 SHORTENER_API2 = environ.get(
-    "SHORTENER_API2", "06e8c86a49c4a36af9de3db010b6e380ab389919"
+    "SHORTENER_API2", "9dd988a0552a97f798e7a811622c95b5a307dcb5"
 )
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "linkshortify.com")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "arolinks.com")
 SHORTENER_API3 = environ.get(
-    "SHORTENER_API3", "06e8c86a49c4a36af9de3db010b6e380ab389919"
+    "SHORTENER_API3", "9dd988a0552a97f798e7a811622c95b5a307dcb5"
 )
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "linkshortify.com")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "arolinks.com")
 TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "14400"))
 THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "14400"))
 
